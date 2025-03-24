@@ -64,7 +64,7 @@ let index = 0;
 let autoSlideInterval;
 
 function updateCarousel() {
-    carousel.style.transform = translateX(-${index * 100}%);
+    carousel.style.transform = `translateX(-${index * 100}%)`;
 }
 
 function nextCard() {

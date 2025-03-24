@@ -130,7 +130,7 @@ button {
     z-index: 100;  /* Garante que as setas fiquem acima das imagens */
 }
 #nextBtn { 
-    margin-left: 36vh; 
+    margin-left: 48vh; 
     position: absolute;
     top: 10px;  /* Ajuste a posição vertical */
     padding: 10px;
